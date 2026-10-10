@@ -167,3 +167,9 @@ header {
     font-size: 0.9rem;
     margin: 0;
 }
+.tea-card {
+    background: #ffffff;
+    border: 1px solid var(--accent-gold);
+    padding: 20px;
+    text-align: left;
+}

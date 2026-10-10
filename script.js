@@ -70,3 +70,6 @@ filterButtons.forEach(button => {
         }
     });
 });
+document.getElementById("review-form").addEventListener("submit", (e) => {
+    e.preventDefault(); // Stops the reload
+});
